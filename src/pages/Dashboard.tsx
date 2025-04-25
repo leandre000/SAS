@@ -1,7 +1,7 @@
 
 import React from "react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { BarChart, LineChart, PieChart } from "@/components/ui/chart";
+import { BarChart, LineChart, PieChart } from "@/components/ui/charts";
 import { TabsContent } from "@/components/ui/tabs";
 import { BarChart3, LineChart as LineChartIcon, PieChart as PieChartIcon, Users, BookOpen, Calendar as CalendarIcon, Award } from "lucide-react";
 
